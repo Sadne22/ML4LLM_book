@@ -35,7 +35,7 @@ Each project teaches skills in three areas: machine learning techniques, LLM mec
 | Format | Link |
 |--------|------|
 | Paperback | Coming soon! |
-| PDF | Coming soon! |
+| PDF | [Gumtree](https://mikexcohen.gumroad.com/l/ml4llms) |
 
 No installation required — all notebooks run directly in Google Colab.
 
